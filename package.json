@@ -1,0 +1,32 @@
+{
+  "name": "react-native-preload",
+  "version": "1.0.0",
+  "description": "Preload content before actual content loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trimitrtech/react-native-preload.git"
+  },
+  "keywords": [
+    "skeleton",
+    "preload",
+    "react-native",
+    "loader"
+  ],
+  "author": "Trimitr Technologies Pvt. Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trimitrtech/react-native-preload/issues"
+  },
+  "homepage": "https://github.com/trimitrtech/react-native-preload#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.7.4",
+    "react-native": "^0.61.5"
+  },
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}

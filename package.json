@@ -1,6 +1,6 @@
 {
   "name": "react-native-preload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Preload content before actual content loading",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,12 @@
     "skeleton",
     "preload",
     "react-native",
+    "react-native-preload",
+    "content-preload",
+    "content-skeleton",
     "loader"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Trimitr Technologies Pvt. Ltd.",
   "license": "MIT",
   "bugs": {

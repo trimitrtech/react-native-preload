@@ -19,7 +19,6 @@
     "content-skeleton",
     "loader"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Trimitr Technologies Pvt. Ltd.",
   "license": "MIT",
   "bugs": {
